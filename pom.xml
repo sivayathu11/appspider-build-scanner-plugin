@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.0</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>com.rapid7</groupId>
@@ -142,7 +142,7 @@
     <dependency>
       <groupId>org.glassfish.jersey.core</groupId>
       <artifactId>jersey-server</artifactId>
-      <version>2.19</version>
+      <version>2.31</version>
     </dependency>
     <dependency>
       <groupId>org.glassfish.jersey.core</groupId>
