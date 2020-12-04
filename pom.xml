@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.0</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>com.rapid7</groupId>
@@ -157,7 +157,7 @@
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpclient</artifactId>
-      <version>4.5.12</version>
+      <version>4.5.13</version>
     </dependency>
     <dependency>
       <groupId>org.freemarker</groupId>
@@ -167,7 +167,7 @@
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpmime</artifactId>
-      <version>4.5.12</version>
+      <version>4.5.13</version>
     </dependency>
     <dependency>
       <groupId>commons-beanutils</groupId>
